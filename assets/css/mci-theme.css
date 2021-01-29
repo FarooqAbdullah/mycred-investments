@@ -1,0 +1,6 @@
+.mci-row {
+	padding: 10px 0px;
+}
+.mci-points-row input[name=mci_points] {
+	width: 50%;
+}

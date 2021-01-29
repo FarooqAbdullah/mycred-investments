@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: myCred Investments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-10 15:59+0000\n"
+"PO-Revision-Date: 2021-01-21 17:57+0000\n"
+"Last-Translator: Quantum team\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-SearchPath-0: /Users/gabriel/Sites/paypana/wp-"
+"content/plugins/mycred-investments\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Loco-Version: 2.5.0; wp-5.5.3"
+
+#: mycred-investments.php:1272
+#, php-format
+msgid " referrals"
+msgstr " referencias"
+
+#: mycred-investments.php:239
+#, php-format
+msgid "All profits awarded"
+msgstr "Todas las ganancias otorgadas"
+
+#: mycred-investments.php:612
+#, php-format
+msgid "amount"
+msgstr "cantidad"
+
+#: mycred-investments.php:236
+#, php-format
+msgid "Award Investment"
+msgstr "Simular inversión"
+
+#: mycred-investments.php:1317
+#, php-format
+msgid "Base Interest"
+msgstr "Interés base"
+
+#: mycred-investments.php:645
+#, php-format
+msgid "Coin Balance"
+msgstr "Saldo de monedas"
+
+#: mycred-investments.php:1320
+#, php-format
+msgid "Compound Interest"
+msgstr "Interés compuesto"
+
+#: assets/js/mci-admin.js:230
+#, php-format
+msgid "Earning From Investment."
+msgstr "Rendimiento de inversión"
+
+#: mycred-investments.php:1263
+#, php-format
+msgid "Exclude Shipping"
+msgstr ""
+"\n"
+"Excluir envío"
+
+#: mycred-investments.php:1265
+#, php-format
+msgid "Exclude Shipping from this product"
+msgstr "Excluir envío de este producto"
+
+#. Author of the plugin
+msgid "Farooq Abdullah"
+msgstr ""
+
+#: mycred-investments.php:639
+#, php-format
+msgid "Filter"
+msgstr ""
+"\n"
+"Filtrar"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.fiverr.com/farooq14162"
+msgstr ""
+
+#: mycred-investments.php:1316
+#, php-format
+msgid "Interest"
+msgstr "Interés"
+
+#: mycred-investments.php:1135
+#, php-format
+msgid "Invest"
+msgstr "Invertir"
+
+#: mycred-investments.php:1333
+#, php-format
+msgid "Investment Options"
+msgstr "Opciones de inversión"
+
+#: mycred-investments.php:1122
+#, php-format
+msgid "Investment points"
+msgstr ""
+"\n"
+"Cantidad"
+
+#: mycred-investments.php:609
+#, php-format
+msgid "Investment Referral Amount"
+msgstr "Monto de referencia "
+
+#: mycred-investments.php:649
+#, php-format
+msgid "Investments"
+msgstr ""
+"\n"
+"Inversiones"
+
+#: mycred-investments.php:653
+#, php-format
+msgid "Investments Earnings"
+msgstr "Ganancias por inversiones"
+
+#: mycred-investments.php:657
+#, php-format
+msgid "Investments Referrals"
+msgstr "Ganancias por Referidos"
+
+#: mycred-investments.php:633
+#, php-format
+msgid "Investments Statistics"
+msgstr "Estadísticas de inversiones"
+
+#: mycred-investments.php:668
+#, php-format
+msgid "Loading Chart"
+msgstr "Cargando"
+
+#: mycred-investments.php:1279
+#, php-format
+msgid "Maximum Amount"
+msgstr "Monto máximo"
+
+#: mycred-investments.php:1275
+#, php-format
+msgid "Minimum Amount"
+msgstr "Monto minimo"
+
+#: mycred-investments.php:1268
+#, php-format
+msgid "Minimum Amount(Privilege)"
+msgstr ""
+"\n"
+"Importe mínimo (privilegio)"
+
+#: mycred-investments.php:1276
+#, php-format
+msgid "Minimum investment amount"
+msgstr "Monto mínimo de inversión"
+
+#: mycred-investments.php:1269
+#, php-format
+msgid "Minimum investment amount with privilege"
+msgstr "Monto mínimo con privilegio"
+
+#: mycred-investments.php:1299
+#, php-format
+msgid "Month(s)"
+msgstr ""
+"\n"
+"Mese(s)"
+
+#: mycred-investments.php:1130
+#, php-format
+msgid "Monthly"
+msgstr "Mensual"
+
+#. Name of the plugin
+msgid "myCred Investments"
+msgstr ""
+
+#: mycred-investments.php:1375
+#, php-format
+msgid ""
+"myCred Investments add-on requires myCred, WooCommerce and AffiliateWP "
+"plugins to be activated."
+msgstr ""
+"\n"
+"El complemento myCred Investments requiere que los complementos myCred, "
+"WooCommerce y AffiliateWP estén activados."
+
+#: mycred-investments.php:1270
+#, fuzzy, php-format
+msgid "on"
+msgstr " en"
+
+#: mycred-investments.php:1131
+#, php-format
+msgid "On Term Ends"
+msgstr ""
+"\n"
+"Al finalizar el plazo"
+
+#: mycred-investments.php:661
+#, php-format
+msgid "Other Referrals"
+msgstr "Otras referencias"
+
+#: mycred-investments.php:1347
+#, php-format
+msgid "Point investment"
+msgstr ""
+"\n"
+"Inversión puntual"
+
+#: mycred-investments.php:697
+#, php-format
+msgid "Return of investment."
+msgstr "Retorno de la inversión."
+
+#: mycred-investments.php:618
+#, php-format
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+#: mycred-investments.php:635
+#, php-format
+msgid "search data by user"
+msgstr "buscar datos por usuario"
+
+#: mycred-investments.php:577
+#, php-format
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: mycred-investments.php:580
+#, php-format
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: mycred-investments.php:1313
+#, php-format
+msgid "Show Withdraw option to investor."
+msgstr "Mostrar opción de retiro al inversor."
+
+#: mycred-investments.php:592
+#, php-format
+msgid "Shows active investment of current logged in user"
+msgstr ""
+"\n"
+"Muestra la inversión activa del usuario actualmente conectado"
+
+#: mycred-investments.php:584
+#, php-format
+msgid "Shows coin balance of current logged in user"
+msgstr ""
+"Muestra el saldo de monedas del usuario que ha iniciado sesión actualmente"
+
+#: mycred-investments.php:588
+#, php-format
+msgid "Shows investment earnings of current logged in user"
+msgstr ""
+"Muestra las ganancias de inversión del usuario que ha iniciado sesión "
+"actualmente"
+
+#: mycred-investments.php:602
+#, php-format
+msgid ""
+"Shows investment, earnings, referrals earnings of current logged in user in "
+"chart view"
+msgstr ""
+"Muestra la inversión, las ganancias, las ganancias por referencias del "
+"usuario que inició sesión actualmente en la vista de gráfico"
+
+#: mycred-investments.php:597
+#, php-format
+msgid "Shows referral earnings of current logged in user"
+msgstr ""
+"Muestra las ganancias por referencias del usuario que ha iniciado sesión "
+"actualmente"
+
+#: mycred-investments.php:1283
+#, php-format
+msgid "Term"
+msgstr "Término"
+
+#. Description of the plugin
+msgid "This addon allows to create investments products."
+msgstr "Este complemento permite crear productos de inversión."
+
+#: mycred-investments.php:585
+#, php-format
+msgid "Use user_id parameter to show specific user data"
+msgstr "Utilice el parámetro user_id para mostrar datos de usuario específicos"
+
+#: mycred-investments.php:1128
+#, php-format
+msgid "Withdraw"
+msgstr "Retirar"
+
+#: mycred-investments.php:1311
+#, php-format
+msgid "Withdraw Option"
+msgstr "Opción de retiro"
+
+#: mycred-investments.php:1304
+#, php-format
+msgid "Withdraw Type"
+msgstr ""
+"\n"
+"Tipo de retiro"
+
+#: mycred-investments.php:1300
+#, php-format
+msgid "Year(s)"
+msgstr ""
+"\n"
+"Año(s)"
+
+#: mycred-investments.php:1405
+#, php-format
+msgid "Total coins"
+msgstr ""
+"\n"
+"Total de monedas"
+
+#: mycred-investments.php:1410
+#, php-format
+msgid "Total Invested"
+msgstr "Total invertido"
+
+#: mycred-investments.php:1414
+#, php-format
+msgid "Active investments"
+msgstr "Inversiones activas"
+
+#: mycred-investments.php:1418
+#, php-format
+msgid "Earnings"
+msgstr "Ganancias"
+
+#: mycred-investments.php:1426
+#, php-format
+msgid "Referrals"
+msgstr "Referencias"
+
+#: mci-table-content.php:69
+#, php-format
+msgid "Name :"
+msgstr "Nombre :"
+
+#: mci-table-content.php:71
+#, php-format
+msgid "Start Date"
+msgstr "Fecha de inicio"
+
+#: mci-table-content.php:73
+#, php-format
+msgid "End Date"
+msgstr ""
+"\n"
+"Fecha final"
+
+#: mci-table-content.php:77
+#, php-format
+msgid "Order number"
+msgstr ""
+"\n"
+"Número de orden"
+
+#: mci-table-content.php:79
+#, php-format
+msgid "Payment number"
+msgstr "Número de pago"
+
+#: mci-table-content.php:81
+#, php-format
+msgid "Amount"
+msgstr "Cantidad"
+
+#: mci-table-content.php:81
+#, php-format
+msgid "Status "
+msgstr "Estado"
+
+#: mci-table-content.php:304
+#, php-format
+msgid "User ID"
+msgstr ""
+"\n"
+"ID de usuario"
+
+#: mci-table-content.php:305
+#, php-format
+msgid "Name"
+msgstr "Nombre"
+
+#: mci-table-content.php:306
+#, php-format
+msgid "Date"
+msgstr "Fecha"
+
+#: mci-table-content.php:310
+#, php-format
+msgid "Status"
+msgstr "Estado"
+
+#: mci-table-content.php:311
+#, php-format
+msgid "Actions"
+msgstr "Comportamiento"
+
+#: mci-table-content.php:312
+#, php-format
+msgid "Logs"
+msgstr "Registros"
+
+#: mci-table-content.php:287
+#, php-format
+msgid "Check Logs"
+msgstr ""
+"\n"
+"Comprobar registros"
+
+#: mci-table-content.php:285
+#, php-format
+msgid "paid"
+msgstr "pagado"
+
+#: mci-table-content.php:285
+#, php-format
+msgid "processing"
+msgstr "Procesando"
+
+#: payment-orders.php:313
+#, php-format
+msgid "User ID :"
+msgstr ""
+"\n"
+"ID de usuario:"
+
+#: payment-orders.php:322
+#, php-format
+msgid "Order number :"
+msgstr "Número de orden :"
+
+#: payment-orders.php:326
+#, php-format
+msgid "Payment number :"
+msgstr ""
+"\n"
+"Número de pago:"
+
+#: payment-orders.php:330
+#, php-format
+msgid "Status :"
+msgstr ""
+"\n"
+"Estado:"
+
+#: payment-orders.php:334
+#, php-format
+msgid "Update"
+msgstr "Actualizar"
+
+#: payment-orders.php:335
+#, php-format
+msgid "Cancel Investment"
+msgstr "Cancel Investment"
+
+#: payment-orders.php:336
+#, php-format
+msgid "Pay Now"
+msgstr "Pagar ahora"

@@ -1,0 +1,102 @@
+.mci_filter_form {
+	position: relative; 
+	top: 30px;
+}
+.mci_filter_submit_button {
+	padding: 5px 15px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    border: 1px solid #0071a1;
+    border-radius: 2px;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+    color: #0071a1;
+    background: #f3f5f6;
+    cursor: pointer;
+}
+.thick_heading {
+    text-align: center;
+}
+.mci_thick_container {
+    height: 100%;
+    width: 97%;
+    font-size: 18px;
+    /*position: absolute;*/
+    left: 65px;
+}
+.mci_thick_container .thick_user_id {
+    text-align: left;
+}
+.mci_thick_container .thick_user_id .thick_form_lable {
+    font-size: 20px;
+    text-align: left;
+    font-weight: 600;
+    width: 30%;
+}
+.mci_thick_container .thick_user_id .thick_form_text {
+    font-size: 18px;
+    position: relative;
+    top: 0px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+}
+.mci_date_thick {
+    float: right;
+    border: none;
+    position: relative;
+    bottom: 3px;
+    left: 20px;
+}
+.mci_amount_thick {
+    float: right;
+    border: none;
+    position: relative;
+    bottom: 30px;
+}
+.cancel_button {
+    margin-left: 50px !important;
+    color: #fff;
+    font-weight: 600;
+}
+.mci_status_cancel {
+    background: #F44336 !important;
+    border-color: #E91E63 !important;
+}
+.mci_status_cancel:hover {
+    background: #f33426!important;
+}
+.mci_pay_now {
+    background: #4CAF50 !important;
+    border-color: #4CAF50 !important;
+    color: #fff !important;
+    font-weight: 600;
+}
+.mci_pay_now:hover {
+    background: #429745 !important;
+}
+.mci_thick_container .thick_user_id .thick_form_lable {
+    font-size: 15px;
+    width: 30%;
+    padding-bottom: 5px;
+    display: inline-block;
+    padding-right: 20px;
+}
+.mci_thick_container .thick_user_id .thick_form_text {
+    font-size: 15px;
+    position: relative;
+    font-weight: bold;
+}
+#TB_ajaxContent {
+    height: 450px !important;
+}
+.mci_log_data {
+    color: #222;
+    padding: 10px;
+    position: relative;
+    margin: 10px;
+    border-bottom: 1px dashed;
+}
+

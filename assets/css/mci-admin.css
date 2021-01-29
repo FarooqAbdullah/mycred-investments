@@ -1,0 +1,108 @@
+.mci_investment_opts_options.mci_investment_opts_tab a::before {
+	content: "\f111" !important;
+}
+.mci-boxes-row {
+	display: flex;
+	justify-content: space-between;
+}
+.mci-data-box {
+	width: 15%;
+    padding: 22px;
+    background: white;
+    margin-right: 10px;
+    height: 100px;
+}
+.mci-data-box h2 {
+    margin: 0;
+    margin-bottom: 20px;
+}
+.mci-amount-row {
+	font-size: 30px;
+    font-family: monospace;
+	padding: 15px 0px;
+	overflow-x: auto;
+}
+.mci-data-box img {
+    width: 28%;
+}
+.mci-chart-loader {
+	width: 50%;
+    margin: 10% auto;
+    font-size: 35px;
+}
+.mci-chart-spinner {
+	width: 9%;
+    vertical-align: text-bottom;
+}
+.mci-chart-row {
+	margin-top: 10px;
+    width: 98%;
+}
+/*.mci_user,
+.mci-filter-btn {
+	float: right;
+}*/
+.mci-filter-btn {
+	margin-right: 20px !important;
+}
+.mci-main-heading {
+	margin: 30px 0px;
+}
+.mci-search-box {
+	text-align: end;
+	width: 99%;
+}
+.mci-suggestions {
+	display: none;
+	position: absolute;
+    background: white;
+    /*padding: 10px;*/
+    text-align: left;
+    cursor: pointer;
+    right: 6%;
+    width: 200px;
+    box-shadow: 1px 1px 11px -2px #ccc;
+    margin-top: 0px;
+}
+.mci-suggestions li {
+	font-size: 17px;
+    padding: 0px 10px;
+}
+.mci-suggestions li:hover {
+    background: #ccc;
+    color: white;
+}
+.mci_min_amount_ref {
+	float: none !important;
+	width: 10% !important;
+}
+/*.mci-search-box .select2-container {
+	width: 20% !important;
+}
+.mci-search-box .select2-container span.selection .select2-selection--multiple {
+	height: 35px;
+}
+.select2-selection {
+	text-align: left;
+}*/
+.mci-data-row {
+	display: flex;
+	margin-bottom: 10px;
+}
+.mci-title {
+	width: 20%;
+}
+.mci-data {
+	width: 60%;
+}
+.mci-title {
+	font-size: 17px;
+    padding: 5px 0px;
+}
+.mci-info {
+	color: #a59999;
+    font-style: oblique;
+}
+.mci-info-shortcode {
+	font-size: 18px;
+}
