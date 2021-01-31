@@ -36,7 +36,3 @@ Here admin can see all the investments of users. The investment lists can be fil
 After activating the add-on admin will create investment product in WooCommerce. The add-on adds a new product type "Investments", on selecting this prodct type new additional options appears like investment terms, invetment type, minimum amount to be invested etc. Admin will fill all the options and will save the product. That's it.
 
 Once user purchase the investment product, it will create a new entry in the investment table with status on-hold, admin will look into the investment detail and will manually approve it to be processed.
-
-
-
-
