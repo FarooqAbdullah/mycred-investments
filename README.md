@@ -4,6 +4,7 @@ It allows admin to get myCred point investments on the site using WooCommerce pl
 ### Notes
 - This plugin requires WooCommerce, AffiiateWP and myCred to be installed & configured in order to perform the functions.
 - Since, it's a custom plugin made for a specific project therefore, use it on your own.
+- Strings in the add-on are tranlated to Spanish.
 
 ### Detail
 Once your have configured WooCommerce, AffiliateWP & myCred and activated "mycred investments" add-on, you will see a custom menu in admin section named "Investments Stats". There will be three different sections under this menu.
